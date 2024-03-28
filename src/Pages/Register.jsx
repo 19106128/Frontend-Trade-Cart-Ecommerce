@@ -29,7 +29,7 @@ function Register() {
   });
   return (
     <>
-      <h2 className="text-center mt-5">Redux Store</h2>
+      <h2 className="text-center mt-5">Trade cart</h2>
       <div className="container">
         <div className="row m-5 no-gutters shadow-lg">
           <div className="col-md-6 d-none d-md-block">
